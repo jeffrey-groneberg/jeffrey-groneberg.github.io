@@ -1,4 +1,4 @@
-baseURL = 'https://jeffreygroneberg.github.io'
+baseURL = 'https://jeffrey-groneberg.github.io'
 languageCode = 'en-us'
 title = 'Jeff @ retr0.party'
 theme = "terminal"
